@@ -7,5 +7,6 @@ print("Multiplication:", a * b)
 
 if b != 0:
     print("Division:", a / b)
+    print("Modulus:", a % b)
 else:
-    print("Division not possible")
+    print("Division and modulus not possible")
